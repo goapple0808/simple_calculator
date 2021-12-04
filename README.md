@@ -14,3 +14,4 @@ practice some fronted-development skills to implement a simple calculator
   I will add the parenthese function and make the page responsive in the future</p>
 <p>the result of the page</p>
 <p>click the link below🔻🔻🔻🔻</p>
+<a href="https://goapple0808.github.io/simple_calculator/">https://goapple0808.github.io/simple_calculator/</a>
