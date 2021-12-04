@@ -1,0 +1,48 @@
+body {
+
+}
+/* if we want to set the inner space of a grid we can use padding and justify-space */
+.grid-container {
+  position: relative;
+  display: inline-grid;
+  grid-template-columns: 80px 80px 80px 80px;
+  grid-template-rows:80px 80px 80px 80px 80px 80px;
+  justify-content: space-evenly;
+  grid-gap: 4px;
+  background-image: url("img/15258921_web1_AP21064730534141.jpg");
+  background-size: cover;
+  padding: 20px 20px;
+  left: 27rem;
+  top: 2rem;
+
+}
+.button-format{
+  height: 100%;
+}
+.during-cal{
+  height: 100%;
+}
+
+.btn{
+  width: 100%
+}
+.equal-sign{
+  grid-area:3 / 4 / 6 / 5;
+}
+
+.equal-button{
+  height: 100%;
+}
+
+.result-bar{
+  grid-area: 1 / 1 / 1 / 5
+}
+.result-bar input{
+  width: 80%;
+  height: 4rem;
+  position: absolute;
+  top: 1rem;
+  left :2.5rem;
+  font-size: 2rem;
+  font-family: 'Roboto Mono', monospace;
+}
